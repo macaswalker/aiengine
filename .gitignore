@@ -1,0 +1,4 @@
+aiengine/
+__pycache__/
+*.pyc
+*.log
